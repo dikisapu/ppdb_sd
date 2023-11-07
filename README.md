@@ -16,19 +16,6 @@
 - Landing Page
 
 
-
-### LINK 
-
-`<Demo>` : <https://github.com/codepeka/PPDB_SD> 
-
-`<Donasi>` : <https://saweria.co/codepeka> 
-<br>
-<p align="center">
-  <img src="images/saweria.PNG" alt="Barcode Saweria"> <br>
-  <strong>Barcode Saweria</strong> 
-</p>
-
-
 # ScreenShot
 
 ![](images/Screenshot-253.png)
